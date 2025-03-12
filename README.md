@@ -1,3 +1,6 @@
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VuNmo1cW1tNmVwdml5aHh5c2M4aDFldzdtcHp3YWZkYnE5NnNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif)
+
+
 <!-- Typing Animation for Hello World -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00A3FF&center=false&vCenter=true&width=600&lines=Hello+World!)
 
