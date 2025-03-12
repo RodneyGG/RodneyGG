@@ -44,3 +44,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=RodneyGG&theme=tokyonight" alt="RodneyGG GitHub Trophies" />
   </a>
 </p>
+
+<!-- Random Dev Quote in a Box -->
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
