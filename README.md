@@ -1,5 +1,8 @@
-<!-- Typing Animation for Greeting and Name -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00A3FF&center=false&vCenter=true&width=600&lines=Hello+World!;Hi+%F0%9F%91%8B%2C+I'm+Lloyd+Rodney+Z.+Arevalo)
+<!-- Typing Animation for Hello World -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00A3FF&center=false&vCenter=true&width=600&lines=Hello+World!)
+
+<!-- Typing Animation for Name -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=800080&center=false&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lloyd+Rodney+Z.+Arevalo)
 
 
 <!-- Typing Animation for Studies -->
