@@ -11,13 +11,19 @@
 <!-- Typing Animation for Studies -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF0000&center=false&vCenter=true&width=800&lines=I+am+currently+studying+Computer+Engineering;Polytechnic+University+of+the+Philippines)
 
-## 🚀 Languages and Tools I Use
+## 🚀 Languages and Tools
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali linux" width="42" height="42" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
   </a>
 </p>
 
