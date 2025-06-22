@@ -11,6 +11,13 @@
 <!-- Typing Animation for Studies -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF0000&center=false&vCenter=true&width=800&lines=I+am+currently+studying+Computer+Engineering;Polytechnic+University+of+the+Philippines)
 
+## ☕ You can support me at
+<p>
+  <a href="https://www.buymeacoffee.com/RodneyGG" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  </a>
+</p>
+
 ## 🚀 Languages and Tools
 <p>
   <a href="https://www.python.org/" target="_blank">
